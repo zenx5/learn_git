@@ -14,3 +14,6 @@
 - git push origin [MY BRANCH]
 
 ## Others Usefull Commands / Otros Comandos utiles
+- git init
+- git log
+- git remote add origin [REPOSITORY]
