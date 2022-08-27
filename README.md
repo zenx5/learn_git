@@ -18,3 +18,4 @@
 - git log
 - git remote add origin [REPOSITORY]
 - git clone [REPOSITORY]
+- git branch
