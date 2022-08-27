@@ -1,3 +1,4 @@
 Nombre: Jhorman David
 Appellido: Martinez Carpio
 Edad: 18 Años
+Fecha de Nacimiento: 30/09/2004
