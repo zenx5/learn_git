@@ -1,0 +1,10 @@
+Si has llegado hasta aquí significa que lograste clonar 
+el repositorio como corresponde, Felicitaciones!
+
+Las actividades las encontraras en la rama "tarea" por lo que 
+lo primero que debes hacer es cambiarte a esa rama usando el siguiente 
+comando:
+
+    git checkout tarea
+
+Puedes copiarlo y pegarlo en la terminal y listo. 
