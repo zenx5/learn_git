@@ -1,0 +1,29 @@
+Ahora si!! Bienvenido y animo, al final de este viaje veras los resultados
+el camino es quizas lento y complicado pero tienes lo que se necesita
+para lograrlo.
+
+Aqui las actividades: 
+1) Borrar el archivo "otrascosa.txt" 
+    - Tan sencillo como seleccionarlo, click derecho y remove
+    - tambien podrias hacerlo desde la terminar 
+      con este comando: "rm -r otrascosa.txt" pero no es necesario
+2) Luego de eso has un "git status", notaras que hay cambios sin ser confirmados.
+   Deberas hacer uso del Flujo, recuerda:
+   - git add otrascosa.txt
+   - git commit -m "algun mensaje aqui"
+   - git pull
+   - git push
+3) Ok ya has borrado archivos y confirmados cambios, ahora vamos a modificar
+   el archivo README.md, en la seccion de "Others Usefull Commands" u "Otros Camandos Utiles"
+   debemos agregar el comando "git checkout" que usaste para llegar a esta rama,
+   deberias agregar al final de esta seccion algo asi: "git checkout [BRANCH]"
+   Luego de esto guardalo y aplica nuevamente el flujo.
+4) Luego de esto vamos al archivo "biografia.txt", debes corregir algunos errores que le agregue
+   Cuando las correcciones esten hechas, guardas y vuelves a aplicar el flujo para confirmar esos cambios
+5) Habras notado que existe un archivos nuevo llamado: "intro.py"
+   Es un archivo de Python, es un lenguaje de programación bastante poderoso y facil de aprender 
+   y con el que se puede hacer un monton de cosas, pero tranquilo, aun no toca aprenderlo, solo vamos a abrirlo y revisarlo.
+   Luego que lo revises pon en la terminal lo siguiente:
+        "python3 intro.py"
+   y sigue las instrucciones
+
