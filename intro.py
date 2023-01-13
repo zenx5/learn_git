@@ -1,3 +1,4 @@
+
 nombre = input('\n\n¿Cual es tu nombre?\n ')
 print('Hola %s bienvenido a Python 3' % nombre)
 edad = input('ahora %s, ¿puedes por favor decirme cuantos años tienes?\n ' % nombre )
